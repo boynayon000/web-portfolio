@@ -1,0 +1,86 @@
+body{
+    font-family:'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.nayon-name{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left:2%;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+}
+.scound-width{
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.scound-width img{
+    width: 100%;
+}
+.top-baner{
+    background-image: url(imges/top-banner.png);
+    background-repeat: no-repeat;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgrey;
+}
+.secound-baner{
+    background-image: url(imges/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h3{
+    font-size: 35px;
+}
+.single-exprence{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+}
+
+.overvew-section{
+    background-image: url(imges/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+.footer-center{
+    text-align: center;
+    font-size: 12px;
+}
