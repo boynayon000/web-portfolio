@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Serif', serif;
+}
+.header-list li{
+
+    display: inline;
+    padding: 10px;
+    font-weight: bold;
+}
+.header{
+    text-align: right;
+    padding-bottom: 50px;
+ 
+}
+.header-list{
+    padding: 5px 160px;
+}
+h1{
+    color:rgb(20, 3, 58);
+    font-size: 70px;
+    padding-bottom: 10px;
+}
+.color{
+    color: red;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+    float: left;
+    margin-left: 5%;
+   
+   
+
+    
+}
+.half-width img{
+    width: 80%;
+}
+.btn-link{
+    text-decoration: none;
+    border: 1px solid red;
+    color: rgb(19, 53, 54);
+    background-color: chocolate;
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 50px;
+}
+.icon{
+    font-size: 20px;
+}
+.about-height{
+    height: 100px;
+    margin-bottom: 50px;
+}
+.about-section{
+    padding-bottom: 50px;
+    display: inline-block;
+
+}
+.extra{
+    width: 35%;
+}
+.third-section{
+    width: 30%;
+    float: left;
+    display: block;
+    padding-right: ;
+    margin-left:2%;
+    box-shadow: 20px 20px 60px gray;
+    
+    border-radius: 5px;
+    background-color: white;
+    height: 350px;
+
+
+}
+.third-section img{
+    width: 100%;
+}
+.project-section{
+
+
+}
+.alighn{
+    text-align: center;
+}
+.last-section{
+    padding:80px;
+    background-color: rgb(245, 247, 248);
+    text-align: center;
+    display: inline-block;
+}
+.gym-font{
+    font-size: 25px;
+}
+.h3{
+    margin: -20px;
+}
+.gym-font-alighn{
+    text-align: center;
+}
+.footer-h4{
+    font-size: 25px;
+}
+.footer-h3{
+    font-size: 30px;
+    margin-top: -20px;
+}
+.footer{
+    margin: auto;
+    text-align: center;
+   padding: 70px;
+}
+.footer-icon{
+    float: left;
+
+}
+.footer-icon img{
+    width: 60%;
+}
+footer-icon-main{
+    margin-left: 220px;
+  
+}
+
+
